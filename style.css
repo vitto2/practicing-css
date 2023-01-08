@@ -1,0 +1,42 @@
+*  {
+    font-family: Arial, Helvetica, sans-serifl
+    ;}
+
+.buy-car { 
+    background-color: #febe01;
+    width: 175px;
+    padding: 10px;
+    border-radius: 4px;
+    color: #111;
+}
+
+.buy-bike { 
+    background-color: #febe01;
+    width: 200px;
+    padding: 10px;
+    border-radius: 4px;
+    color: #111;
+}
+span { 
+    color: #febe01
+}
+
+h1 { 
+    text-align: center;
+}
+
+.car-product-container { 
+background: #111;
+padding: 20px;
+border-radius: 4px;
+margin-bottom: 50px;
+}
+
+h2 { 
+    color: white;
+}
+
+
+p { 
+    color: #b2b2b2;
+}
